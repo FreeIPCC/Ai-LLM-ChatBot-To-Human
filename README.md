@@ -11,7 +11,7 @@ call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-# FreeIPCC团队其它产品demo链接2025.02.22，enjoy😄😄😄😄😄
+# FreeIPCC团队其它产品demo链接2025.02.23，enjoy😄😄😄😄😄
 
 1，话务/在线客服chatbot：
 http://118.25.192.13:8822/cc
@@ -69,3 +69,4 @@ http://118.25.192.13:80
 
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
+## 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
