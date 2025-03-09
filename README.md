@@ -51,6 +51,8 @@ http://118.25.192.13:80
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 
 ## 界面截图
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/44c2b0ab-3216-4ea3-b2ad-9bc757e8563c)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/ee3e6328-d983-464f-ac7c-1e46b8466af2)
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
