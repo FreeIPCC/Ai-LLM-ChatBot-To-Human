@@ -9,9 +9,10 @@ call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+- Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
+- Email:leehear@gmail.com
 
-# FreeIPCC团队其它产品demo链接2025.04.11，enjoy😄😄😄
+# FreeIPCC团队其它产品demo链接2025.04.12，enjoy😄😄😄
 
 1，话务/在线客服chatbot：
 http://118.25.192.13:8822/cc
