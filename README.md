@@ -12,7 +12,7 @@ call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-# FreeIPCC团队其它产品demo链接2025.04.17，enjoy😄😄😄
+# FreeIPCC团队其它产品demo链接2025.04.18，enjoy😄😄😄
 
 1，话务/在线客服chatbot：
 http://118.25.192.13:8822/cc
