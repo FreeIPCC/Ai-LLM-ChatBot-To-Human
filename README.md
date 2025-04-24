@@ -15,11 +15,11 @@ call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,
 # FreeIPCC团队其它产品demo链接2025.04.24，enjoy😄😄😄
 
 1，话务/在线客服chatbot：
-http://118.25.192.13:8822/cc
+http://124.220.48.38:8822/cc
 账户、密码：demo123/demo123@Abc
 
 2，工单：
-http://118.25.192.13:80
+http://124.220.48.38:80
 账户、密码：demo/123456
 
 注意：如果页面打不开，是因为demo页面正在频受DDoS攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
