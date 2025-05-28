@@ -1,5 +1,5 @@
 # Ai-LLM-ChatBot-To-Human大模型在线客服转人工服务模块，与电话客服统一排队
-call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，这些在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席。获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!!!
+call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，这些在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席。获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!
 
 ## 😄完整性：前端、后端、数据库，齐全
 注意：前端太老了，还是jQuery的，还在改版。
@@ -12,7 +12,7 @@ call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-# FreeIPCC团队其它产品demo链接2025.05.27，enjoy😄😄😄
+# FreeIPCC团队其它产品demo链接2025.05.28，enjoy😄😄😄
 
 1，话务/在线客服chatbot：
 http://124.220.48.38:8822/cc
