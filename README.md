@@ -1,5 +1,5 @@
 # Ai-LLM-ChatBot-To-Human大模型在线客服转人工服务模块，与电话客服统一排队
-call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，这些在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席。获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!!!
+call center、contact center、呼叫中心、联络中心中：LLM,Chatbot,GPT,DeepSeek,Gemini,Claude,LLaMA,Qwen,豆包等等，这些在线客服、大模型聊天机器人等网页AI坐席，AI处理不了之后，转人工坐席。获取在线客服状态与电话坐席状态，可通过策略，进行统一排队!!!!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
